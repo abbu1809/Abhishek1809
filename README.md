@@ -33,64 +33,122 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" /> About Me
 
-<img align="right" alt="Gaming Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Gaming Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 👋 Hi there! I'm Abhishek Verma
+
+> *Passionate about creating interactive web experiences and exploring the world of game development*
+
+I'm a **3rd-year B.Tech student** at **Acropolis Institute of Technology and Research**, Madhya Pradesh, India. I love turning creative ideas into reality through code, whether it's building responsive websites or experimenting with game engines.
+
+### 🚀 What I Do
 
 ```javascript
-const abhishekVerma = {
-    fullName: "Abhishek Verma",
-    username: "abbu1809",
-    location: "Madhya Pradesh, India 🇮🇳",
-    education: {
-        degree: "B.Tech (Bachelor of Technology)",
-        college: "Acropolis Institute of Technology and Research",
-        year: "3rd Year",
-        semester: "5th Semester"
-    },
-    role: "Web Developer & Game Dev Enthusiast",
+class AbhishekVerma extends Developer {
+    constructor() {
+        super();
+        this.name = "Abhishek Verma";
+        this.username = "abbu1809";
+        this.location = "Madhya Pradesh, India 🇮🇳";
+        this.portfolio = "https://abhishek-verma.vercel.app/";
+        
+        this.education = {
+            degree: "Bachelor of Technology (B.Tech)",
+            institute: "Acropolis Institute of Technology and Research",
+            year: "3rd Year (5th Semester)",
+            graduation: "2026"
+        };
+    }
     
-    currentFocus: [
-        "🌐 Building responsive web applications",
-        "🎮 Exploring game development",
-        "🤖 Learning AI/ML fundamentals",
-        "☁️ Understanding DevOps & Cloud"
-    ],
+    getCurrentRole() {
+        return "Web Developer & Game Development Enthusiast";
+    }
     
-    interests: [
-        "Web Development 💻",
-        "Game Development 🎮",
-        "AI & Machine Learning 🤖",
-        "Cloud Computing ☁️",
-        "IoT Projects 📡"
-    ],
+    getDailyRoutine() {
+        return [
+            "☕ Start with coffee",
+            "💻 Code awesome projects",
+            "🎮 Experiment with game engines",
+            "📚 Learn something new",
+            "🔁 Repeat"
+        ];
+    }
     
-    contactMe: {
-        email: "abhishekkumarjaiswal9722@gmail.com",
-        linkedin: "linkedin.com/in/abhishekverma1809",
-        github: "github.com/abbu1809"
-    },
+    getSkills() {
+        return {
+            languages: ["JavaScript", "C++", "C", "HTML5", "CSS3"],
+            currentlyLearning: ["Unreal Engine", "Python", "AI/ML", "Cloud Tech"],
+            tools: ["VS Code", "Git", "GitHub", "Figma"],
+            interests: ["Web Dev", "Game Dev", "AI/ML", "Cloud", "IoT"]
+        };
+    }
     
-    lifePhilosophy: "Learn by doing, build by creating! 🚀"
-};
+    getGoals() {
+        return {
+            shortTerm: [
+                "🎮 Master Unreal Engine fundamentals",
+                "🌐 Build full-stack web applications",
+                "🤖 Dive deeper into AI/ML"
+            ],
+            longTerm: [
+                "🚀 Create immersive gaming experiences",
+                "💼 Build impactful tech products",
+                "🌟 Contribute to open-source community"
+            ]
+        };
+    }
+    
+    getContact() {
+        return {
+            portfolio: "abhishek-verma.vercel.app",
+            email: "abhishekkumarjaiswal9722@gmail.com",
+            linkedin: "linkedin.com/in/abhishekverma1809",
+            github: "github.com/abbu1809"
+        };
+    }
+}
 
-console.log("Welcome to my digital playground! 🎨");
+const me = new AbhishekVerma();
+console.log("👋 Welcome to my digital playground!");
+console.log("� Check out my portfolio:", me.portfolio);
 ```
 
 <br clear="right"/>
 
 <details open>
-<summary><b>🎯 Quick Stats</b></summary>
+<summary><h3>🎯 Quick Overview</h3></summary>
 <br/>
 
 ```yaml
-🎓 Student: 3rd Year B.Tech, 5th Semester
-💻 Primary Focus: Web Development
-🎮 Passion: Game Development
-🌱 Currently Learning: AI/ML, Cloud Technologies
+👨‍💻 Name: Abhishek Verma
+🎓 Education: B.Tech (3rd Year, 5th Semester)
 🏫 College: Acropolis Institute of Technology and Research
 📍 Location: Madhya Pradesh, India
-🤝 Open to: Collaboration, Learning, New Projects
-⚡ Fun Fact: I turn ideas into interactive experiences!
+� Portfolio: https://abhishek-verma.vercel.app/
+
+💼 Current Role: Web Developer & Game Dev Enthusiast
+🎮 Learning: Unreal Engine, AI/ML, Cloud Technologies
+💻 Working On: Web Applications & Game Projects
+🤝 Open For: Collaboration, Learning, Open Source
+
+⚡ Fun Fact: I turn coffee into code and ideas into games!
+🎯 Life Motto: "Learn by doing, build by creating!"
 ```
+
+</details>
+
+<details>
+<summary><h3>🌟 More About Me</h3></summary>
+<br/>
+
+- � I'm currently working on **interactive web applications** and learning **Unreal Engine**
+- 🌱 I'm expanding my skills in **AI/ML**, **Cloud Technologies**, and **Game Development**
+- 🎮 I'm passionate about creating **immersive gaming experiences** and **user-friendly web apps**
+- 👯 I'm looking to collaborate on **web projects**, **game development**, and **open-source initiatives**
+- 💬 Ask me about **Web Development**, **JavaScript**, **C++**, or **Game Design**
+- 📫 Reach me at: **abhishekkumarjaiswal9722@gmail.com**
+- 🌐 Check out my portfolio: **[abhishek-verma.vercel.app](https://abhishek-verma.vercel.app/)**
+- ⚡ I believe in **continuous learning** and **hands-on practice**
 
 </details>
 
@@ -142,13 +200,18 @@ console.log("Welcome to my digital playground! 🎨");
   <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&label=Interested" />
 </p>
 
-### 🎮 Game Dev Interests
+### 🎮 Game Dev & Learning
 
 <p>
+  <img src="https://skillicons.dev/icons?i=unreal,unity,godot&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&label=Learning" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&label=Interested" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white&label=Exploring" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&label=Learning" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&label=Exploring" />
   <img src="https://img.shields.io/badge/Game_Design-FF6B6B?style=for-the-badge&logo=gameandwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&label=Learning" />
 </p>
 
 </div>
@@ -161,17 +224,25 @@ console.log("Welcome to my digital playground! 🎨");
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbu1809&show_icons=true&count_private=true&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=Abhishek's%20GitHub%20Stats" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbu1809&hide_border=true&background=0d1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="Streak Stats" />
+### 📈 Overall Performance
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbu1809&layout=compact&hide_border=true&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbu1809&layout=donut&hide_border=true&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages Donut" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbu1809&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&custom_title=Abhishek's%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbu1809&hide_border=true&background=0d1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-### 📈 Contribution Graph
+### 💻 Language Distribution
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbu1809&layout=compact&hide_border=true&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbu1809&layout=donut&hide_border=true&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&langs_count=6&hide=Jupyter%20Notebook" alt="Languages Donut" />
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Timeline
 
 [![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abbu1809&custom_title=Abhishek's%20Contribution%20Timeline&hide_border=true&border_radius=15&bg_color=0d1117&color=4A90E2&line=4A90E2&point=FFFFFF&area_color=0d1117&title_color=4A90E2&area=true)](https://github.com/abbu1809)
 
@@ -179,7 +250,7 @@ console.log("Welcome to my digital playground! 🎨");
 
 <div align="center">
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Achievements & Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=abbu1809&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
 
@@ -187,12 +258,32 @@ console.log("Welcome to my digital playground! 🎨");
 
 <div align="center">
 
-### 📊 Detailed Profile Stats
+### 📊 Detailed Analytics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbu1809&theme=github_dark" width="98%" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbu1809&theme=github_dark" width="98%" alt="Contribution Graph" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbu1809&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time" />
+</div>
+
+<div align="center">
+
+### ⏰ Coding Time & Repository Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbu1809&theme=github_dark&utcOffset=5.5" width="49%" alt="Commit Time (IST)" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abbu1809&theme=github_dark" width="49%" alt="Repos Per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abbu1809&theme=github_dark" width="49%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abbu1809&theme=github_dark" width="49%" alt="Stats" />
+
+</div>
+
+<div align="center">
+
+### 🌟 Recent Activity & Contributions
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub><i>💡 Note: Stats include private repositories and all contributions</i></sub>
 
 </div>
 
@@ -292,37 +383,87 @@ gantt
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🚀 My Projects
+## 🚀 Featured Projects & Repositories
 
 <div align="center">
 
-### 🎨 Featured Work
+### 📌 Pinned Repositories
 
-> *Building my portfolio one project at a time!*
+<!-- Automatically fetches your pinned repos -->
+<a href="https://github.com/abbu1809/Abhishek1809">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbu1809&repo=Abhishek1809&theme=github_dark&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 🎨 All My Repositories
+
+<!-- This will show all your public repos -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abbu1809&repo=Abhishek1809&show_owner=true&theme=github_dark&hide_border=true&title_color=4A90E2&icon_color=4A90E2" width="48%" />
+
+</div>
+
+<details>
+<summary><h3>💼 Project Categories</h3></summary>
+<br/>
 
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
-<h3>🌐 Web Projects</h3>
-<p><i>Coming Soon...</i></p>
-<p>Working on interactive web applications</p>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="180">
+<h4>🌐 Web Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=vercel" /><br/>
+  <a href="https://abhishek-verma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+<sub>Interactive web applications, responsive designs, and modern UIs</sub>
 </td>
 <td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
-<h3>🎮 Game Projects</h3>
-<p><i>In Development...</i></p>
-<p>Experimenting with game engines and mechanics</p>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="180">
+<h4>🎮 Game Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/Unreal-Learning-blue?style=flat-square&logo=unrealengine" /><br/>
+  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" />
+</p>
+<sub>Experimenting with Unreal Engine, game mechanics, and interactive experiences</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="180">
+<h4>🤖 AI/ML Projects</h4>
+<p>
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge" />
+</p>
+<sub>Exploring machine learning algorithms and AI applications</sub>
+</td>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="180">
+<h4>📚 Learning Projects</h4>
+<p>
+  <img src="https://img.shields.io/badge/Status-Ongoing-brightgreen?style=for-the-badge" />
+</p>
+<sub>Hands-on practice projects while mastering new technologies</sub>
 </td>
 </tr>
 </table>
 
-### 📚 Learning Projects
+</details>
 
-<p align="center">
-  <i>🔨 Building hands-on projects while learning new technologies</i><br/>
-  <i>📖 Following tutorials and creating my own variations</i><br/>
-  <i>💡 Experimenting with ideas and turning them into code</i>
+<div align="center">
+
+### 🌟 Portfolio Highlight
+
+<a href="https://abhishek-verma.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-abhishek--verma.vercel.app-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+
+<p>
+  <sub>Check out my portfolio to see my work, projects, and journey in tech!</sub>
 </p>
 
 </div>
@@ -331,58 +472,143 @@ gantt
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
-### 📱 Let's Connect & Collaborate!
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+
+### � Reach Out To Me
 
 <p>
-  <a href="mailto:abhishekkumarjaiswal9722@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://abhishek-verma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/abhishekverma1809">
+  <a href="mailto:abhishekkumarjaiswal9722@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/abhishekverma1809" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/abbu1809">
+  <a href="https://github.com/abbu1809" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-### 🤝 Open For
+<p>
+  <a href="https://twitter.com/abbu1809" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/abbu1809" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com/users/abbu1809" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+### 💼 Professional Links
+
+<p>
+  <a href="https://leetcode.com/abbu1809" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/abbu1809" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  <a href="https://dev.to/abbu1809" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
+
+</div>
+
+<div align="center">
+
+### 🤝 I'm Open For
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="60"/><br/>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Collaboration" width="65"/><br/>
 <b>Collaboration</b><br/>
-<sub>Web & Game Projects</sub>
+<sub>Web & Game Dev<br/>Open Source Projects</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="60"/><br/>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="65"/><br/>
 <b>Learning Together</b><br/>
-<sub>Study Buddies Welcome</sub>
+<sub>Study Groups<br/>Code Reviews</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="60"/><br/>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="65"/><br/>
 <b>New Ideas</b><br/>
-<sub>Let's Build Something</sub>
+<sub>Innovative Projects<br/>Startups</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="60"/><br/>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Work" width="65"/><br/>
+<b>Opportunities</b><br/>
+<sub>Internships<br/>Freelance Work</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Mentorship" width="65"/><br/>
 <b>Mentorship</b><br/>
-<sub>Learn & Grow Together</sub>
+<sub>Give & Receive<br/>Grow Together</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
+<details>
+<summary><h3>💬 Let's Talk About...</h3></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🌐 Web Development
+- Frontend Technologies (HTML, CSS, JS)
+- Responsive Design & UI/UX
+- Modern Web Frameworks
+- Progressive Web Apps
+- Web Performance Optimization
+
+#### 🎮 Game Development
+- Unreal Engine Basics
+- Game Design Principles
+- Game Mechanics & Physics
+- Level Design
+- Interactive Storytelling
+
+</td>
+<td width="50%">
+
+#### 🤖 Emerging Technologies
+- AI & Machine Learning
+- Cloud Computing (AWS, Azure)
+- DevOps & CI/CD
+- Internet of Things (IoT)
+- Blockchain & Web3
+
+#### 📚 General Tech
+- Coding Best Practices
+- Problem Solving Techniques
+- Career in Tech
+- Learning Resources
+- Student Life & Projects
+
+</td>
+</tr>
+</table>
+
+</details>
+
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 💡 More About Me
+## 💡 More About Me & Fun Stuff
 
 <div align="center">
 
@@ -391,42 +617,76 @@ gantt
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50"/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="55"/><br/>
 <b>Passion for Creating</b><br/>
-<sub>I love turning ideas into reality through code</sub>
+<sub>Turning ideas into reality<br/>through code and creativity</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Game" width="50"/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Game" width="55"/><br/>
 <b>Interactive Experiences</b><br/>
-<sub>Games and web apps that engage users</sub>
+<sub>Building games and apps<br/>that engage and inspire</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50"/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="55"/><br/>
 <b>Continuous Learning</b><br/>
-<sub>Always exploring new technologies</sub>
+<sub>Always exploring<br/>new technologies</sub>
 </td>
 </tr>
 </table>
 
-### 📜 Random Dev Quote
+### ⚡ Fun Facts & Interests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 Creative Side
+- 🎮 **Gaming:** Strategy games, RPGs, and indie games
+- 🎵 **Music:** Coding with lo-fi and electronic music
+- 🎬 **Movies:** Sci-fi, tech documentaries, and animation
+- � **Reading:** Tech blogs, game design books, coding tutorials
+
+#### 💻 Coding Style
+- ☕ **Fuel:** Coffee-powered developer
+- 🌙 **Best Time:** Late night coding sessions
+- 🎯 **Approach:** Clean code, creative solutions
+- 🔍 **Debugging:** Enjoy problem-solving challenges
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌱 Learning Journey
+- 📚 **Currently Reading:** Unreal Engine documentation
+- 🎓 **Learning From:** YouTube, Udemy, official docs
+- 🏆 **Achievements:** Building portfolio projects
+- 🎯 **Next Goal:** Create a complete game prototype
+
+#### 🌟 Philosophy
+- 💡 "Every bug is a lesson in disguise"
+- 🚀 "Build, break, learn, repeat"
+- 🎮 "Games are interactive art forms"
+- 💻 "Code is poetry with a purpose"
+
+</td>
+</tr>
+</table>
+
+### 📜 Daily Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🐍 Watch My Contributions
+### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/abbu1809/abbu1809/output/github-contribution-grid-snake-dark.svg)
 
-<sub><i>💡 To enable snake animation: Fork [Platane/snk](https://github.com/Platane/snk) and set up GitHub Action</i></sub>
+<sub><i>💡 To enable this: Fork [Platane/snk](https://github.com/Platane/snk) and set up GitHub Action in your profile repo</i></sub>
 
-### ⚡ Fun Facts
+### 📊 Visitor Count & GitHub Metrics
 
-<p align="left">
-  🎮 <b>Gaming:</b> I believe games are the future of interactive storytelling<br/>
-  💻 <b>Coding Style:</b> Clean code with creative solutions<br/>
-  🌱 <b>Learning Approach:</b> Hands-on practice and building projects<br/>
-  🎨 <b>Creative Side:</b> Love designing user interfaces and game mechanics<br/>
-  📚 <b>Always Curious:</b> If it involves tech, I want to learn it!<br/>
-  🚀 <b>Future Goal:</b> Create games and applications that make a difference<br/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abbu1809&label=Profile%20Views&color=4A90E2&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abbu1809?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abbu1809?label=Total%20Stars&style=flat-square&color=yellow" alt="Stars" />
 </p>
 
 </div>
@@ -437,33 +697,102 @@ gantt
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-### 💭 Final Thoughts
+### � Closing Thoughts
+
+<table>
+<tr>
+<td align="center">
+
+```javascript
+function myJourney() {
+    const journey = {
+        started: "As a curious beginner",
+        learning: "Web Dev, Game Dev, AI/ML, Cloud",
+        building: "Projects that matter",
+        goal: "Create impactful tech products",
+        belief: "Every line of code is progress"
+    };
+    
+    return "Keep building, keep learning, keep growing! 🚀";
+}
+
+console.log(myJourney());
+```
+
+</td>
+</tr>
+</table>
 
 <p>
 <i>"Every great developer started as a beginner.<br/>
 Every amazing game started as an idea.<br/>
-Every line of code is a step forward."</i>
+Every line of code is a step forward.<br/><br/>
+<b>The journey of a thousand miles begins with a single commit.</b>"</i>
 </p>
 
-### 📊 Profile Stats
+### � Get In Touch
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Game%20Dev-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Collaborate"/>
+  <b>💼 Open for opportunities, collaborations, and connections!</b><br/>
+  📧 Email: <a href="mailto:abhishekkumarjaiswal9722@gmail.com">abhishekkumarjaiswal9722@gmail.com</a><br/>
+  🌐 Portfolio: <a href="https://abhishek-verma.vercel.app/">abhishek-verma.vercel.app</a><br/>
+  💼 LinkedIn: <a href="https://linkedin.com/in/abhishekverma1809">abhishekverma1809</a>
+</p>
+
+### 📊 Current Status
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Game%20Dev-4A90E2?style=for-the-badge&logo=gameandwatch&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Available-For%20Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🎓_B.Tech_Student-3rd_Year-blue?style=flat-square" alt="Student"/>
+  <img src="https://img.shields.io/badge/🌱_Currently_Learning-Unreal_Engine-orange?style=flat-square" alt="Learning"/>
+  <img src="https://img.shields.io/badge/💻_Coding_Since-2022-green?style=flat-square" alt="Coding Since"/>
+  <img src="https://img.shields.io/badge/☕_Coffee_Level-Expert-brown?style=flat-square" alt="Coffee"/>
+</p>
+
+---
+
+### 🎯 Quick Links
+
+<p>
+  <a href="#-about-me">About Me</a> •
+  <a href="#-tech-stack--skills">Tech Stack</a> •
+  <a href="#-github-statistics--activity">GitHub Stats</a> •
+  <a href="#-featured-projects--repositories">Projects</a> •
+  <a href="#-lets-connect--collaborate">Connect</a>
 </p>
 
 ---
 
 <sub>
-  
-**✨ Made with 💙 by [Abhishek Verma](https://github.com/abbu1809)**
 
-*3rd Year B.Tech Student | Acropolis Institute of Technology and Research*
+**⭐ From [Abhishek Verma](https://github.com/abbu1809) • [Portfolio](https://abhishek-verma.vercel.app/)**
 
-*Madhya Pradesh, India 🇮🇳*
+**🎓 B.Tech Student (3rd Year, 5th Semester)**  
+**🏫 Acropolis Institute of Technology and Research**  
+**📍 Madhya Pradesh, India 🇮🇳**
 
-**Last Updated:** November 2025
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Made_with-💙_Love_and_☕_Coffee-red?style=flat-square" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Powered_by-Curiosity_&_Passion-yellow?style=flat-square" alt="Powered by"/>
+  <img src="https://img.shields.io/badge/Built_with-Markdown_&_Creativity-blue?style=flat-square" alt="Built with"/>
+</p>
+
+**Last Updated:** November 2025 | **Profile Version:** 2.0 | **Status:** Active ✅
+
+*"Code is poetry, games are art, and learning is eternal."*
+
+</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,27,30&height=120&section=footer" width="100%"/>
+
+</div>
 
 </sub>
 
