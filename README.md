@@ -268,12 +268,6 @@ Game Engines: Unreal Engine, Unity
   <img src="https://holopin.me/abbu1809" alt="@abbu1809's Holopin board" />
 </a>
 
-### 🎯 Coding Stats
-
-<a href="https://wakatime.com/@abbu1809">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abbu1809&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Wakatime Stats" />
-</a>
-
 <details>
 <summary><b>🔥 More GitHub Metrics</b></summary>
 <br/>
@@ -619,11 +613,6 @@ gantt
 ### 🎵 Spotify Now Playing
 
 [![Spotify](https://novatorem-abbu1809.vercel.app/api/spotify)](https://open.spotify.com/user/31l5lpd4oc4pu5dfhkqzfvuadccy)
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### 🎮 Interactive Stats
 
