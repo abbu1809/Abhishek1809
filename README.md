@@ -93,11 +93,11 @@ console.log(`🌐 Portfolio: abhishek-verma.vercel.app`);
 <tr>
 <td width="50%" valign="top">
 
-#### � Current Status
+#### 💼 Current Status
 - 🎓 **B.Tech Student** - 3rd Year (5th Semester)
 - 🏫 **Acropolis Institute of Technology and Research**
 - 📍 **Madhya Pradesh, India** 🇮🇳
-- 🎯 **Graduation:** 2026
+- 🎯 **Graduation:** 2027
 - 🌐 **Portfolio:** [abhishek-verma.vercel.app](https://abhishek-verma.vercel.app/)
 
 #### � What I'm Up To
@@ -225,32 +225,54 @@ Game Engines: Unreal Engine, Unity
 
 ### 📈 Performance Overview
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbu1809&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&custom_title=Abhishek's%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbu1809&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideNums=58a6ff&currStreakNum=ff6b6b&dates=8b949e&sideLabels=8b949e" alt="Streak Stats" />
+<a href="https://github.com/abbu1809">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbu1809&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&custom_title=Abhishek's%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/abbu1809">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=abbu1809&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideNums=58a6ff&currStreakNum=ff6b6b&dates=8b949e&sideLabels=8b949e" alt="Streak Stats" />
+</a>
 
 ### 💻 Language & Activity Distribution
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbu1809&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbu1809&theme=github_dark&utcOffset=5.5" width="49%" alt="Commit Time (IST)" />
+<a href="https://github.com/abbu1809">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbu1809&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" />
+</a>
+<a href="https://github.com/abbu1809">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbu1809&theme=github_dark&utcOffset=5.5" alt="Commit Time (IST)" />
+</a>
 
 ### 📊 Detailed Contribution Analytics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbu1809&theme=github_dark" width="98%" alt="Contribution Graph" />
+<a href="https://github.com/abbu1809">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbu1809&theme=github_dark" width="98%" alt="Contribution Graph" />
+</a>
 
-### 📈 Activity Timeline & Metrics
+### 📈 Repository & Language Metrics
 
-[![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abbu1809&custom_title=Contribution%20Activity%20Timeline&hide_border=true&border_radius=15&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&title_color=58a6ff&area=true)](https://github.com/abbu1809)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abbu1809&theme=github_dark" width="49%" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abbu1809&theme=github_dark" width="49%" alt="Most Commit Language" />
+<a href="https://github.com/abbu1809?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abbu1809&theme=github_dark" width="49%" alt="Repos Per Language" />
+</a>
+<a href="https://github.com/abbu1809?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abbu1809&theme=github_dark" width="49%" alt="Most Commit Language" />
+</a>
 
 ### 🏆 GitHub Achievements & Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=abbu1809&theme=darkhub&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
+<a href="https://github.com/abbu1809">
+  <img src="https://github-profile-trophy.vercel.app/?username=abbu1809&theme=darkhub&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
+</a>
 
 ### 🎖️ GitHub Badges & Achievements
 
-[![An image of @abbu1809's Holopin badges](https://holopin.me/abbu1809)](https://holopin.io/@abbu1809)
+<a href="https://holopin.io/@abbu1809">
+  <img src="https://holopin.me/abbu1809" alt="@abbu1809's Holopin board" />
+</a>
+
+### 🎯 Coding Stats
+
+<a href="https://wakatime.com/@abbu1809">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abbu1809&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Wakatime Stats" />
+</a>
 
 <details>
 <summary><b>🔥 More GitHub Metrics</b></summary>
@@ -275,43 +297,43 @@ Game Engines: Unreal Engine, Unity
 
 ```mermaid
 mindmap
-  root((Abhishek's<br/>Tech Journey))
+  root((Abhishek's Tech Journey))
     Web Development
       Frontend
-        HTML/CSS ✅
-        JavaScript ✅
-        React 🔄
-        TypeScript 📚
+        HTML/CSS
+        JavaScript
+        React
+        TypeScript
       Backend
-        Node.js 🔄
-        Express 📚
-        REST APIs 🔄
-        MongoDB 📚
+        Node.js
+        Express
+        REST APIs
+        MongoDB
       Full Stack
-        MERN Stack 🔄
-        Authentication 📚
-        Deployment 📚
+        MERN Stack
+        Authentication
+        Deployment
     Game Development
-      Unreal Engine 🔄
-        Blueprints 📚
-        C++ Integration 📚
-        Level Design 📚
+      Unreal Engine
+        Blueprints
+        C++ Integration
+        Level Design
       Game Design
-        Mechanics 🔄
-        UI/UX 📚
-        Storytelling 📚
+        Mechanics
+        UI/UX
+        Storytelling
     Emerging Tech
-      AI & ML 🔄
-        Python 🔄
-        TensorFlow 📚
-        Neural Networks 📚
-      Cloud Computing 📚
-        AWS 📚
-        Docker 📚
-        CI/CD 📚
-
-Legend: ✅ Proficient | 🔄 Learning | 📚 Planned
+      AI ML
+        Python
+        TensorFlow
+        Neural Networks
+      Cloud Computing
+        AWS
+        Docker
+        CI/CD
 ```
+
+**Legend:** ✅ Proficient | 🔄 Learning | 📚 Planned
 
 </div>
 
@@ -572,9 +594,17 @@ gantt
 </tr>
 </table>
 
-### 📜 Daily Inspiration
+### � Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Meme"/>
+
+### 🎲 Random Dev Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=58a6ff&aColor=8b949e)
 
 ### 🐍 Contribution Snake
 
@@ -585,6 +615,34 @@ gantt
 </picture>
 
 <sub><i>💡 Watch the snake eat my contributions! Auto-generated by [Platane/snk](https://github.com/Platane/snk)</i></sub>
+
+### 🎵 Spotify Now Playing
+
+[![Spotify](https://novatorem-abbu1809.vercel.app/api/spotify)](https://open.spotify.com/user/31l5lpd4oc4pu5dfhkqzfvuadccy)
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🎮 Interactive Stats
+
+<details>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+### 🔥 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/58a6ff/abbu1809" alt="GitHub Contribution Chart" width="100%" />
+
+### 📈 Detailed Contribution Graph
+
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abbu1809&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/abbu1809)
 
 </div>
 
